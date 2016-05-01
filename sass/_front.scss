@@ -1,0 +1,8 @@
+#front{
+  width: 74%;
+  min-width: 1080px;
+  margin: 0 auto;
+  @import 'nav.scss';
+  @import 'main.scss';
+  @import 'footer.scss';
+}
